@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Tugas Akhir 2016\\baru\\PresensiOnline\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\Tugas Akhir 2016\\baru\\PresensiOnline\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SAPAWI\\komputer\\TA\\PresensiOnline\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\SAPAWI\\komputer\\TA\\PresensiOnline\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\SAPAWI\\PresensiOnline\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\SAPAWI\\PresensiOnline\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\SAPAWI\\PresensiOnline\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\SAPAWI\\PresensiOnline\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.2\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Tugas Akhir 2016\\baru\\PresensiOnline\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Tugas Akhir 2016\\baru\\PresensiOnline\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.2\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\SAPAWI\\komputer\\TA\\PresensiOnline\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\SAPAWI\\komputer\\TA\\PresensiOnline\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.2\\res\\xml\\preferences.xml"
+    }
+]

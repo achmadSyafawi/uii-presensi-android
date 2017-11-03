@@ -1,0 +1,47 @@
+{
+    "name": "PresensiOnline",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node node_modules/react-native/local-cli/cli.js start",
+        "test": "jest",
+        "json-server": "json-server --watch ./__tests__/db.json --routes ./__tests__/routes.json"
+    },
+    "dependencies": {
+        "axios": "^0.16.1",
+        "moment": "^2.18.1",
+        "prop-types": "^15.5.10",
+        "react": "16.0.0-alpha.6",
+        "react-native": "0.44.2",
+        "react-native-animatable": "1.2.2",
+        "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+        "react-native-floating-label": "0.2.3",
+        "react-native-linear-gradient": "2.0.0",
+        "react-native-vector-icons": "4.2.0",
+        "react-navigation": "1.0.0-beta.11"
+    },
+    "devDependencies": {
+        "babel-eslint": "^7.2.3",
+        "babel-jest": "20.0.3",
+        "babel-preset-flow": "^6.23.0",
+        "babel-preset-react-native": "1.9.2",
+        "eslint": "^3.19.0",
+        "eslint-config-airbnb": "^15.0.1",
+        "eslint-config-prettier": "^2.3.0",
+        "eslint-plugin-flowtype": "^2.34.0",
+        "eslint-plugin-import": "^2.3.0",
+        "eslint-plugin-jsx-a11y": "^5.0.3",
+        "eslint-plugin-prettier": "^2.1.2",
+        "eslint-plugin-react": "^7.1.0",
+        "flow-bin": "^0.48.0",
+        "jest": "20.0.4",
+        "json-server": "^0.10.1",
+        "prettier": "^1.5.3",
+        "prettier-eslint": "^6.4.2",
+        "react-native-debugger-open": "^0.3.11",
+        "react-test-renderer": "16.0.0-alpha.6"
+    },
+    "jest": {
+        "preset": "react-native"
+    }
+}
